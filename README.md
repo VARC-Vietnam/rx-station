@@ -1,5 +1,5 @@
 # Introduction
-This repository hosts all VARC HAM radio/Satellite RX station cross regions. Station is stored at the files `stations.text` which in 3 line format
+This repository hosts all VARC HAM radio/Satellite RX station cross regions. Station is stored at the files `stations.txt` which in 3 line format
 ```bash
 [{station owner's callsign}] [station name] [{lat},{lon}] [{public access url}]
 [{antenna specification}]
