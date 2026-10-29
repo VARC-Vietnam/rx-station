@@ -1,0 +1,3 @@
+[XV4HT/BN] [BluecyLabs RX Station - Bắc Ninh] [20.9993942,106.2050098] [https://bn-rx.bluecylabs.com]
+[20m EFHW]
+[14.07400,14.190]
