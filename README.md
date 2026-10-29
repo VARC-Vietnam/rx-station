@@ -12,7 +12,7 @@ For example
 [20m EFHW]
 [14.07400,14.190]
 
-[XV4HT] [BluecyLabs RX Station - Hà Nội] [20.979914,105.7543741] [https://rx.bluecylabs.com]
+[XV4HT] [BluecyLabs RX Station - Hà Nội] [20.979914,105.7543741] [https://hn-rx.bluecylabs.com]
 [1/4 WGP]
 [1090,433,923]
 ```
